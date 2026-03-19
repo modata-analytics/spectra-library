@@ -12,7 +12,7 @@ The Microbial Reference Library provides an interactive interface for browsing r
 
 The app is designed to accommodate different biological groups and analytical designations, including:
 - Gram-negative bacteria with Lipid A profiles
-- Gram-negative organisms with LOS-like profiles
+- Organisms with LOS-like profiles
 - Gram-positive bacteria with cardiolipin-based profile classification
 - Yeast and fungal organisms with sterol-associated profile classification
 
