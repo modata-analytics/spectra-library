@@ -1,0 +1,28 @@
+microbe,organism_type,gram_status,analyte_category,replicate_type,replicate_id,strain,condition,reference_csv,reference_image,notes,keyword_tags
+Escherichia coli,Bacterium,Gram-negative,Lipid A,Technical,rep1,K-12,standard,data/spectra/escherichia_coli_rep1.csv,,Canonical reference,e coli ecoli enteric gram negative rod
+Escherichia coli,Bacterium,Gram-negative,Lipid A,Biological,rep2,K-12,standard,data/spectra/escherichia_coli_rep2.csv,,Biological replicate,e coli ecoli enteric gram negative rod
+Klebsiella pneumoniae,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/klebsiella_pneumoniae_rep1.csv,,Pilot,klebsiella encapsulated gram negative rod pneumonia
+Klebsiella oxytoca,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/klebsiella_oxytoca_rep1.csv,,Gram-negative lipid A entry,klebsiella oxytoca gram negative rod enteric
+Klebsiella aerogenes,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/klebsiella_aerogenes_rep1.csv,,Gram-negative lipid A entry,klebsiella aerogenes enterobacter aerogenes gram negative rod
+Acetobacter cerevisiae,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/acetobacter_cerevisiae_rep1.csv,,Pilot,acetobacter acetic acid bacterium gram negative
+Pseudomonas aeruginosa,Bacterium,Gram-negative,Lipid A,Technical,rep1,PAO1,standard,data/spectra/pseudomonas_aeruginosa_rep1.csv,,Pilot,pseudomonas non fermenter gram negative rod opportunistic
+Chlamydia trachomatis,Bacterium,Gram-negative,LOS Like,Technical,rep1,Unknown,standard,data/spectra/chlamydia_trachomatis_rep1.csv,,Atypical LOS,chlamydia intracellular gram negative std
+Helicobacter pylori,Bacterium,Gram-negative,Lipid A,Technical,rep1,26695,standard,data/spectra/helicobacter_pylori_rep1.csv,,Modified Lipid A,helicobacter h pylori curved rod gastric gram negative
+Achromobacter xylosoxidans,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/achromobacter_xylosoxidans_rep1.csv,,Gram-negative lipid A entry,achromobacter xylosoxidans gram negative non fermenter rod
+Citrobacter portucalensis,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/citrobacter_portucalensis_rep1.csv,,Gram-negative lipid A entry,citrobacter portucalensis gram negative rod enteric
+Neisseria spp.,Bacterium,Gram-negative,LOS Like,Technical,rep1,Unknown,standard,data/spectra/neisseria_spp_rep1.csv,,LOS-associated Gram-negative entry,neisseria spp neisseria species gram negative diplococci los
+Porphyromonas gingivalis,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,data/spectra/porphyromonas_gingivalis_rep1.csv,,Gram-negative lipid A entry,porphyromonas gingivalis anaerobe oral gram negative
+Staphylococcus aureus,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,staph staphylococcus aureus gram positive cocci skin
+Staphylococcus epidermidis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,staph staphylococcus epidermidis gram positive cocci skin
+Staphylococcus haemolyticus,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,staph staphylococcus haemolyticus gram positive cocci skin
+Streptococcus pneumoniae,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,strep streptococcus pneumoniae gram positive cocci respiratory
+Streptococcus pyogenes,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,strep streptococcus pyogenes group a strep gram positive cocci
+Enterococcus faecium,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,enterococcus faecium entero gram positive cocci
+Enterococcus faecalis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,enterococcus faecalis entero gram positive cocci
+Lactobacillus crispatus,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,lactobacillus crispatus lacto gram positive rod vaginal
+Lactobacillus iners,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,lactobacillus iners lacto gram positive rod vaginal
+Aerococcus loyolae,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Gram-positive cardiolipin-based entry,aerococcus loyolae gram positive cocci
+Gardnerella vaginalis,Bacterium,Gram-variable,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,Profile assignment based on non-lipid A workflow,gardnerella vaginalis vaginal gram variable coccobacillus
+Saccharomyces cerevisiae,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,Yeast entry represented by sterol-associated profile,saccharomyces cerevisiae baker's yeast budding yeast fungus fungal
+Candida albicans,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,Yeast entry represented by sterol-associated profile,candida yeast fungus fungal albicans thrush opportunistic
+Cryptococcus neoformans,Fungal,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,Fungal entry represented by sterol-associated profile,cryptococcus neoformans yeast fungus fungal encapsulated cryptococcal

@@ -83,4 +83,3 @@ microbial-reference-library/
     └── images/
         ├── escherichia_coli_rep1.png
         ├── klebsiella_pneumoniae_rep1.png
-        └── ...
