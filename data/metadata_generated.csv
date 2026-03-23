@@ -1,1 +1,34 @@
 microbe,organism_type,gram_status,analyte_category,replicate_type,replicate_id,strain,condition,reference_csv,reference_image,reference_mzxml,notes,keyword_tags
+Achromobacter xylosoxidans,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,,,data/spectra/Achromobacter xylosoxidans.mzXML,Reference mzXML,achromobacter gram negative non fermenter rod
+Acinetobacter baumannii rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Acinetobacter_baumannii_rep1.mzXML,Review classification,acinetobacter baumannii rep1
+Aerococcus urinae,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Aerococcus urinae.mzXML,Reference mzXML,aerococcus urinae gram positive cocci urine
+Candida albicans,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida albicans.mzXML,Reference mzXML,candida albicans yeast fungal
+Candida dubliniensis,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida dubliniensis.mzXML,Reference mzXML,candida dubliniensis yeast fungal
+Candida duobushaemulonii,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida duobushaemulonii.mzXML,Reference mzXML,candida duobushaemulonii yeast fungal
+Candida glabrata,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida glabrata.mzXML,Reference mzXML,candida glabrata yeast fungal
+Candida haemulonii,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida haemulonii.mzXML,Reference mzXML,candida haemulonii yeast fungal
+Candida krusei,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida krusei.mzXML,Reference mzXML,candida krusei yeast fungal
+Candida lusitaniae,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida lusitaniae.mzXML,Reference mzXML,candida lusitaniae yeast fungal
+Candida parapsilosis,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Candida parapsilosis.mzXML,Reference mzXML,candida parapsilosis yeast fungal
+Citrobacter xylosoxidans,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,,,data/spectra/Citrobacter xylosoxidans.mzXML,Reference mzXML,citrobacter gram negative rod
+Corynebacterium tuscaniense,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Corynebacterium tuscaniense.mzXML,Reference mzXML,corynebacterium gram positive rod
+Entercocci spp rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Entercocci_spp_rep1.mzXML,Review classification,entercocci spp rep1
+Enterococcus faecalis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Enterococcus faecalis Pure.mzXML,Reference mzXML,enterococcus faecalis entero gram positive cocci
+Enterococcus faecalis rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Enterococcus_faecalis_rep1.mzXML,Review classification,enterococcus faecalis rep1
+Gardnerella pickettii,Bacterium,Gram-variable,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Gardnerella pickettii.mzXML,Reference mzXML,gardnerella gram variable vaginal
+Gardnerella vaginalis,Bacterium,Gram-variable,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Gardnerella vaginalis.mzXML,Reference mzXML,gardnerella vaginalis vaginal gram variable coccobacillus
+Helicobacter pylori rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Helicobacter_pylori_rep1.mzXML,Review classification,helicobacter pylori rep1
+Klebsiella aerogenes,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,,,data/spectra/Klebsiella aerogenes.mzXML,Reference mzXML,klebsiella aerogenes enterobacter aerogenes gram negative rod
+Klebsiella oxytoca,Bacterium,Gram-negative,Lipid A,Technical,rep1,Unknown,standard,,,data/spectra/Klebsiella oxytoca.mzXML,Reference mzXML,klebsiella oxytoca gram negative rod enteric
+Klebsiella pneumoniae rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Klebsiella_pneumoniae_rep1.mzXML,Review classification,klebsiella pneumoniae rep1
+Kodameae ohmeri,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Kodameae ohmeri.mzXML,Review classification,kodameae ohmeri
+Lactobacillus paragasseri,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Lactobacillus paragasseri.mzXML,Reference mzXML,lactobacillus gram positive rod
+Pseudomonas aeruginosa rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Pseudomonas_aeruginosa_rep1.mzXML,Review classification,pseudomonas aeruginosa rep1
+Saccharomyces cerevisiae,Yeast,Not Applicable,Sterol Profile,Technical,rep1,Unknown,standard,,,data/spectra/Saccharomyces cerevisiae.mzXML,Reference mzXML,saccharomyces cerevisiae baker yeast budding yeast fungal
+Salmonella spp rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Salmonella_spp_rep1.mzXML,Review classification,salmonella spp rep1
+Serratia spp rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Serratia_spp_rep1.mzXML,Review classification,serratia spp rep1
+Staphylococcus capitis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Staphylococcus capitis.mzXML,Reference mzXML,staphylococcus capitis gram positive cocci
+Staphylococcus epidermidis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Staphylococcus epidermidis.mzXML,Reference mzXML,staphylococcus epidermidis gram positive cocci
+Staphylococcus haemolyticus,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Staphylococcus haemolyticus.mzXML,Reference mzXML,staphylococcus haemolyticus gram positive cocci
+Staphylococcus lugdunensis,Bacterium,Gram-positive,Cardiolipin Profile,Technical,rep1,Unknown,standard,,,data/spectra/Staphylococcus lugdunensis.mzXML,Reference mzXML,staphylococcus lugdunensis gram positive cocci
+Staphylococcus aureus rep1,Unknown,Unknown,Unknown,Technical,rep1,Unknown,standard,,,data/spectra/Staphylococcus_aureus_rep1.mzXML,Review classification,staphylococcus aureus rep1
